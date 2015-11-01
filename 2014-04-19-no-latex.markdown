@@ -1,0 +1,18 @@
+---
+author: yask123
+comments: true
+date: 2014-04-19 15:07:07+00:00
+layout: post
+slug: no-latex
+title: 'No latex '
+wordpress_id: 58
+tags:
+- personal
+---
+
+I must import Latex script to be able to use it here.
+
+
+
+
+Looking good!

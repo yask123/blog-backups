@@ -1,0 +1,44 @@
+---
+author: yask123
+comments: true
+date: 2015-03-01 20:30:36+00:00
+layout: post
+slug: whats-up
+title: What's up?
+wordpress_id: 369
+categories:
+- Python
+---
+
+### Opensource
+
+
+
+Inspiration :
+
+"I'm doing a free operating system just a hobby, won't be big and professional like gnu for 386 (486) AT clones."
+-Linus Torvalds
+
+
+
+It's not that I haven't been writing lately. It's just that I am writing at too many places now **sigh**.
+ <!--more--> 
+
+
+Updates?
+
+Well my exams got over last week.
+
+These days I am super active in open source contribution. I was super psyched and was even fixing bugs during my exams.
+
+I started open source contribution with  Kuma a django based project of Mozilla community. I had fixed a few bugs and some of my patches were eventually merged in the main branch. It felt really  exhilarating that my code was running on Mozilla Developer Network website and was effecting thousands of users worldwide.
+
+But then my focus shifted towards my self taken projects and competitive programming due to ACM-ICPC event. The event was awesome ! We [ranked under 50 ](http://icpc.baylor.edu/regionals/finder/kharagpur-2014/standings) ([Baylor's rank list](http://icpc.baylor.edu/regionals/finder/kharagpur-2014/standings)) [Team name: `limitless`].
+
+We were also called for Directi internship interview. I cleared the 1st round. The competition on round 2 was a bit tough for me and I couldn't clear it. Really need to improve myself in this. But overall it was a nice experience and we also got Amazon shopping vouchers :D .
+
+Coming back to open source I think I really found the project that I am passionate about. Yes I am working in a python community , Duh! One of which is python library for symbolic mathematics and the other one is a python wiki. Till now I have posted 4-5 bugs and submitted patches for 4 bugs. Some of my patches have been merged on the main branch while the others are on their way.
+
+I am learning a lot in this community. Open source  really teaches teamwork and discipline.
+
+

@@ -1,0 +1,11 @@
+---
+author: yask123
+comments: true
+date: 2014-05-06 12:39:01+00:00
+layout: post
+slug: my-tweet
+title: My tweet
+wordpress_id: 5
+---
+
+https://twitter.com/yask123/status/463653165653827584

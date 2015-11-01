@@ -1,0 +1,42 @@
+---
+author: yask123
+comments: true
+date: 2015-03-13 15:33:45+00:00
+layout: post
+slug: _
+title: console.log("-_-");
+wordpress_id: 389
+categories:
+- Life
+---
+
+Lastly I was working on an Anonymous chatters web app.I played with it for a while today. Rewrote the complete chat app inside it.
+
+Earlier it was more like a discussion page rather than a chat page. Enteries were written/read to/from the database only at the time of submission.
+
+Now I wrote an ajax chat box , updating the part of the chatterbox every 5s.
+ <!--more--> 
+[code language="javascript"]
+
+function setup() {
+window.setInterval("updateChat()", 5000);
+updateChat();
+}
+
+function updateChat() {
+downloadUrl("/getchats/?groupname={{ groupname|safe }}", "GET", null, onChatsReturned);
+}
+
+[/code]
+
+This is how it looks :D
+
+![](http://yask007.files.wordpress.com/2015/03/1_screenshot2015-03-13at8-51-45pm.png)
+
+Much better eh?
+
+Javascript is really a fun language. Lots of hacks. Everytime while fixing bugs I learn something new. Which brings me to another topic , FOSS.
+
+Currently I am mostly contributing to moin-moin as I talked before. Fixing bugs here and getting Javascript code reviewed by mentors has certainly improved me.
+
+Yea!Before CRing I make sure code is void of any Jslint errors and yea the annoying trailing spaces … er..!

@@ -1,0 +1,18 @@
+---
+author: yask123
+comments: true
+date: 2014-04-20 08:35:00+00:00
+layout: post
+slug: macbeth
+title: Macbeth
+wordpress_id: 48
+tags:
+- macbeth
+- shakespeare
+---
+
+DUNCAN:
+There's no art
+To find the mind's construction in the face
+He was a gentleman on whom I built
+An absolute trust.

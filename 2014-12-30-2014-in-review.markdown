@@ -1,0 +1,25 @@
+---
+author: yask123
+comments: true
+date: 2014-12-30 19:00:01+00:00
+layout: post
+slug: 2014-in-review
+title: 2014 in review
+wordpress_id: 353
+categories:
+- Life
+---
+
+The WordPress.com stats helper monkeys prepared a 2014 annual report for this blog.
+
+[![](//s0.wp.com/wp-content/mu-plugins/annual-reports/img/2014-emailteaser.png)](http://yask007.wordpress.com/2014/annual-report/)
+
+Here's an excerpt:
+
+
+
+<blockquote>A San Francisco cable car holds 60 people. This blog was viewed about **840** times in 2014. If it were a cable car, it would take about 14 trips to carry that many people.</blockquote>
+
+
+
+[Click here to see the complete report.](http://yask007.wordpress.com/2014/annual-report/)
